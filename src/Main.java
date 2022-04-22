@@ -1,6 +1,6 @@
 import java.util.Calendar;
 
-public class AulaTeste {
+public class Main {
     public static void main(String[] args) {
         Calendar hoje = Calendar.getInstance();
 
